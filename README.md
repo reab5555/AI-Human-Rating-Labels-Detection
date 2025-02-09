@@ -131,32 +131,13 @@ These results indicate that both XGBoost and RandomForest provide strong perform
 
 ## Installation and Usage
 
-1.  **Clone the Repository:**
-
-    ```bash
-    git clone [repository URL]
-    cd [repository directory]
-    ```
-
-2.  **Install Dependencies:**
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3.  **Configure Vertex AI:**
-
-    *   Set up a Vertex AI project and enable the Gemini API.
-    *   Authenticate your environment to access the Gemini API.
-    *   Update the relevant configuration parameters (e.g., project ID, location) in the code.
-
-4.  **Run the Pipeline:**
+**Run the Pipeline:**
 
     * First, run the code in `create_netflix_batch_input_jsonl.py`. Then, run the data in the Vertex AI UI. Then run the code in `process_output_to_csv.py` to move the output data into a csv.
     *   Run the Spark code in `user_statistics.py`, `ai_synthetic_ratings_user_statistics.py`, and `data_preparation_for_ml.py` to perform the necessary data processing and feature engineering. *Remember to configure the Spark scripts to ONLY output SD, Kurtosis, and Skewness*.
     *   Run the model training and evaluation script (`main.py`).
 
-5.  **Launch the Gradio UI:**
+**Launch the Gradio UI:**
 
     ```bash
     python gradio_app.py
