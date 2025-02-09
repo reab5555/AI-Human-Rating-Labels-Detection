@@ -116,19 +116,6 @@ The following table compares the Average AUC across different models:
 
 These results indicate that both XGBoost and RandomForest provide strong performance for detecting AI-generated labels based on the selected feature set. The Average AUC indicates that all have a decent to strong model to distinguish.
 
-## Technologies Used
-
-*   Python
-*   Pandas
-*   NumPy
-*   Scikit-learn
-*   XGBoost
-*   Apache Spark
-*   Vertex AI Gemini API
-*   Gradio
-*   Matplotlib
-*   Scipy
-
 ## Installation and Usage
 
 **Run the Pipeline:**
