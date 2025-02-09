@@ -29,7 +29,7 @@ The effectiveness of the framework hinges on several key components:
 
 *   **User Interface (Gradio):** A user-friendly Gradio UI simplifies the interaction with the trained models, enabling users to upload custom rating data in CSV format and receive interactive predictions. This allows for continuous monitoring of data quality and model performance.
 
-## Workflow - In Detail
+## Workflow
 
 1.  **Dataset Preparation:**
 
