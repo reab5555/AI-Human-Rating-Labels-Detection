@@ -1,5 +1,5 @@
 # AI vs. Human Rating Label Detection Framework
-This project is an end-to-end framework for identifying AI-generated vs. human-generated rating labels. It uses a subset of the Netflix Prize Dataset and synthetic data from Vertex AI Gemini, providing a comprehensive analysis with feature engineering, model training, evaluation, and a Gradio UI. The goal is to streamline detection and improve data quality
+This project is an end-to-end framework for identifying AI-generated vs. human-generated rating labels. It uses a subset of the Netflix Prize Dataset and synthetic data from Vertex AI Gemini, providing a comprehensive analysis with feature engineering, model training, and evaluation.
 
 ## Overview
 This project directly addresses the growing need to distinguish between human and AI-generated content used in training machine learning models. Traditional methods can struggle to differentiate subtle variances, leading to compromised data integrity. By providing a clear and replicable method, this framework is designed to enhance the efficiency and interpretability of the detection process, aiding in data curation and model development.
