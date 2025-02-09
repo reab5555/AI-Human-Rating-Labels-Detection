@@ -119,21 +119,21 @@ These results indicate that both XGBoost and RandomForest provide strong perform
 ---------------------------------------------------------------------------------------------
 
 <div style="display: flex; flex-direction: row; align-items: flex-start;">
-  <img src="appendix/features_importance.png" width="500" alt=""">
-  <img src="appendix/confusion_matrix.png" width="500" alt="" >
+  <img src="appendix/features_importance.png" width="355" alt=""">
+  <img src="appendix/confusion_matrix.png" width="355" alt="" >
 </div>
 <div style="display: flex; flex-direction: row; align-items: flex-start;">
-  <img src="appendix/roc-auc.png" width="500" alt="">
-  <img src="appendix/learning_curve.png" width="500" alt="" >
+  <img src="appendix/roc-auc.png" width="355" alt="">
+  <img src="appendix/learning_curve.png" width="355" alt="" >
 </div>
 <div style="display: flex; flex-direction: row; align-items: flex-start;">
-  <img src="appendix/models_comparison.png" width="500" alt="">
-  <img src="appendix/models_roc-auc.png" width="500" alt="" >
+  <img src="appendix/models_comparison.png" width="355" alt="">
+  <img src="appendix/models_roc-auc.png" width="355" alt="" >
 </div>
 
 
 <div style="display: flex; flex-direction: row; align-items: flex-start;">
-  <img src="appendix/histograms.png" width="235" alt="Schema" >
+  <img src="appendix/histograms.png" width="355" alt="Schema" >
 </div>
 
 ---------------------------------------------------------------------------------------------
