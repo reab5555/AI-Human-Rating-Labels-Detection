@@ -14,7 +14,7 @@ The effectiveness of the framework hinges on several key components:
 
 *   **Data Preprocessing:** Critical for preparing the datasets, this step ensures the cleanliness and consistency required for accurate feature engineering and model training. This encompasses removing incomplete entries, data standardization, and format homogenization.
 
-*   **Feature Engineering (Focused):** The core of the analysis lies in extracting a compact yet highly informative set of statistical features from user rating patterns. Based on empirical analysis of Variance Inflation Factors (VIF) and Feature Importance, this has been refined to include only:
+*   **Feature Engineering:** The core of the analysis lies in extracting a compact yet highly informative set of statistical features from user rating patterns. Based on empirical analysis of Variance Inflation Factors (VIF) and Feature Importance, this has been refined to include only:
     *   **Standard Deviation (SD) of Ratings:** Measures the dispersion of a user's ratings, indicating consistency or variability in their preferences.
     *   **Kurtosis of Rating Distribution:** Quantifies the "tailedness" of the rating distribution, revealing the presence of outliers or extreme values that might characterize AI behavior.
     *   **Skewness of Rating Distribution:** Assesses the asymmetry of the rating distribution, capturing potential biases or trends in rating tendencies.
