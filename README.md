@@ -1,6 +1,6 @@
 # AI vs. Human Rating Label Detection Framework
 
-This project detects AI-generated vs. human rating labels using a streamlined framework. By analyzing a Netflix Prize Dataset subset and synthetic data from Vertex AI Gemini based on Standard Deviation, Kurtosis, and Skewness, it provides an efficient, end-to-end solution for identifying AI-generated ratings.
+This project is a framework for development of a machine learning model that detects AI-generated vs. human rating labels. By analyzing a Netflix Prize Dataset subset and synthetic data from Vertex AI Gemini based on Standard Deviation, Kurtosis, and Skewness, it provides an efficient, end-to-end solution for identifying AI-generated ratings.
 
 ## Overview
 
